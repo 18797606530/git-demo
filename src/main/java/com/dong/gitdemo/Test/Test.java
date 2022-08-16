@@ -8,8 +8,6 @@ public class Test {
         System.out.println("33333");
         System.out.println("44444");
         System.out.println("被修改");
-        System.out.println("9.13 被修改");
-        System.out.println("手动修改的代码块");
     }
 
 }
